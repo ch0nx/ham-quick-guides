@@ -10,6 +10,9 @@
 # Original GIMP 2.0 plugin by hamsolo474.
 # GIMP 3.0+ migration by Claude Code.
 #
+# As of GIMP 3.0.6, this plugin needs to be in a directory with the same name as the file. 
+# Example: %APPDATA%\GIMP\3.0\plug-ins\ham-quick-guides\ham-quick-guides.py
+# 
 # You must delete your plugin cache when updating this file. (%APPDATA%\GIMP\3.0\pluginrc)
 
 import sys
